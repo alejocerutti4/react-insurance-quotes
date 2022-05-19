@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-insoures-quotes/static/css/main.21f92dab.chunk.css",
+    "main.js": "/react-insoures-quotes/static/js/main.1e56703d.chunk.js",
+    "main.js.map": "/react-insoures-quotes/static/js/main.1e56703d.chunk.js.map",
+    "runtime-main.js": "/react-insoures-quotes/static/js/runtime-main.6a893442.js",
+    "runtime-main.js.map": "/react-insoures-quotes/static/js/runtime-main.6a893442.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/react-insoures-quotes/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.62399a2c.chunk.js": "/react-insoures-quotes/static/js/2.62399a2c.chunk.js",
+    "static/js/2.62399a2c.chunk.js.map": "/react-insoures-quotes/static/js/2.62399a2c.chunk.js.map",
+    "static/js/3.f0147c78.chunk.js": "/react-insoures-quotes/static/js/3.f0147c78.chunk.js",
+    "static/js/3.f0147c78.chunk.js.map": "/react-insoures-quotes/static/js/3.f0147c78.chunk.js.map",
+    "index.html": "/react-insoures-quotes/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/react-insoures-quotes/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.21f92dab.chunk.css.map": "/react-insoures-quotes/static/css/main.21f92dab.chunk.css.map",
+    "static/js/2.62399a2c.chunk.js.LICENSE.txt": "/react-insoures-quotes/static/js/2.62399a2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a893442.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.62399a2c.chunk.js",
+    "static/css/main.21f92dab.chunk.css",
+    "static/js/main.1e56703d.chunk.js"
+  ]
+}
